@@ -1,7 +1,6 @@
 # pinia-dynamic-counter
 
-This template should help get you started developing with Vue 3 in Vite.
-
+Dynamic counter on 2 pages. Simple project for testing and learning purposes
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
