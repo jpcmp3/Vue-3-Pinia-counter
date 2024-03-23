@@ -1,5 +1,4 @@
 <template>
-   <h1>Result</h1>
    <div class="heading">
       <h2>{{ displayText }}</h2>
       <hr>
